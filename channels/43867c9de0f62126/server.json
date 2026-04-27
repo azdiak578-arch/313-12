@@ -1,1 +1,1 @@
-{"seq":37,"ts":1777292497,"frames":[{"id":"cafc99a0e821c551e09ffa7e5","seq":6,"status":"closed"}]}
+{"seq":38,"ts":1777292509,"frames":[{"id":"c43e8c9c29bf69968dd5be8c0","seq":4,"status":"error","err":"destination read failed"},{"id":"c43e8c9c29bf69968dd5be8c0","seq":5,"status":"closed"},{"id":"c5a58b28484a155b9e651c98d","seq":4,"status":"error","err":"destination read failed"},{"id":"c5a58b28484a155b9e651c98d","seq":5,"status":"closed"}]}
